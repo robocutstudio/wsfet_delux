@@ -10,3 +10,5 @@ This board is based on the FREENFET3 but offers:
 
 
 https://www.freetronics.com.au/products/addressable-triple-n-mosfet-driver-output-module#.W3xziBgnaKo
+
+![ahaha](images/wsfet_delux.png)
